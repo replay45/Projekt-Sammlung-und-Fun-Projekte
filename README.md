@@ -1,3 +1,3 @@
 # projekt-sammlung
 
-In diesem Repository sind verschiedene Projekte, die nicht zu den anderen Kategorien passen, zu finden.
+In diesem Repository sind verschiedene Projekte und hilfreiche Anleitungen zu finden.
