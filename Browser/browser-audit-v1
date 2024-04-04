@@ -1,0 +1,11 @@
+BrowserAudit
+
+BrowserAudit ist ein webbasierter Dienst zum Testen verschiedener Sicherheitsrichtlinien der Webbrowser. 
+Der BrowserAudit-Test enthält aktuell über 400 Tests.
+
+
+Um den Test auszuführen, muss lediglich die offizielle Webseite besucht werden und auf "Test me" geklickt werden.
+Der Test kann einige Minuten in Anspruch nehmen.
+
+
+https://browseraudit.com/
