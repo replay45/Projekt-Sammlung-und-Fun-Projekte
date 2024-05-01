@@ -1,21 +1,32 @@
 Login Benutzername:email@mail.de
+
 Login Passwort:Ihr gewähltes Passwort
 
 
 IMAP
+
 Server: imap.mail.de
-Port: 993 
+
+Port: 993
+
 SSL/TLS: An
 
+
 POP3
+
 Server: pop.mail.de
-Port: 995 
+
+Port: 995
+
 SSL/TLS: An
 
 
 SMTP
+
 Server: smtp.mail.de
+
 Port: 465 SSL/TLS: An
+
 Port: 587 STARTTLS/TLS: An
 
 
