@@ -25,9 +25,13 @@ SMTP
 
 Server: smtp.mail.de
 
-Port: 465 SSL/TLS: An
+Port: 465 
 
-Port: 587 STARTTLS/TLS: An
+SSL/TLS: An
+
+Port: 587 
+
+STARTTLS/TLS: An
 
 
 
