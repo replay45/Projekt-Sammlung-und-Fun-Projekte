@@ -1,7 +1,6 @@
 # mail.de settings - v1
 
 Login Benutzername: email@mail.de
-
 Login Passwort: dein gewähltes Passwort
 
 
