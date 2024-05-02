@@ -1,4 +1,7 @@
-# mail.de settings - v1
+# mail.de settings
+
+mail.de settings für E-Mail-Clients, wie z.B. Thunderbird
+
 
 - Login Benutzername: [deine-email] @mail.de
 - Login Passwort: dein gewähltes Passwort
@@ -31,7 +34,7 @@
 
 
 
-# eclipso settings pop3 - v1
+# eclipso settings pop3
 
 elipso.de /eclipso.email settings für E-Mail-Clients, wie z.B. Thunderbird
 
