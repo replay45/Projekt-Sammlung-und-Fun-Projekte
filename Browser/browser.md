@@ -48,7 +48,7 @@ Der Test kann einige Minuten in Anspruch nehmen.
 
 # Fingerprintig
 
-### sicher browsen
+### sicher surfen
 - Um anonym surfen zu können, reicht es leider nicht mehr, nur die IP Adresse z.B. über einen VPN zu verschleiern.
 Auch wenn die meisten Browser heute viele Cookies blockieren können, können häufig Webseiten über das sogenannte "Fingerprinting"
 Nutzer bzw. Browser wieder erkennen, egal welche IP Adresse diese haben.
