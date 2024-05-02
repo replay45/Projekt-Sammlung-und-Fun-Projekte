@@ -1,4 +1,4 @@
-# Idiot Prank Anleitung
+# Idiot Prank Anleitung (Windows)
 
 
 1. Editor auf Windows öffnen.
@@ -20,7 +20,7 @@ Dafür muss einfach nur der Text innerhalb der Anführungsstriche geändert werd
 ----------------------------------------------------------------------------------------------
 
 
-# Loop Prank Anleitung
+# Loop Prank Anleitung (Windows)
 
 
 1. Editor auf Windows öffnen.
