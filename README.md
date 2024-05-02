@@ -1,6 +1,6 @@
 # Projekt-Sammlung
 
-In diesem Repository sind verschiedene Projekte und hilfreiche Anleitungen zu finden.
+In diesem Repository sind verschiedene Projekte und hilfreiche Anleitungen, sowie einige "Spaß-Projekte" zu finden.
 
 
 ### Disclaimer
