@@ -1,4 +1,8 @@
-# Im Brave-Browser den Dark-Mode für jede Webseite aktivieren:
+# Browser & sicher surfen
+
+
+
+# Brave-Browser Dark-Mode für jede Webseite:
 
 Hinweis:
 - Da der Dark-Mode zum aktuellen Zeitpunkt (Erstellung dieser Anleitung) eine experimentelle Funktion ist, kann es zu Fehlern kommen !
