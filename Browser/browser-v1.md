@@ -2,7 +2,7 @@
 
 
 
-# Brave-Browser Dark-Mode für jede Webseite:
+# 1. Brave-Browser Dark-Mode für jede Webseite:
 
 Hinweis:
 - Da der Dark-Mode zum aktuellen Zeitpunkt (Erstellung dieser Anleitung) eine experimentelle Funktion ist, kann es zu Fehlern kommen !
@@ -34,7 +34,7 @@ Um den Dark-Mode zu deaktivieren, einfach "disable" auswählen.
 
 
 
-# BrowserAudit
+# 2. BrowserAudit
 
 BrowserAudit ist ein webbasierter Dienst zum Testen verschiedener Sicherheitsrichtlinien der Webbrowser. 
 Der BrowserAudit-Test enthält aktuell über 400 Tests.
@@ -50,7 +50,7 @@ Der Test kann einige Minuten in Anspruch nehmen.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-# Fingerprintig
+# 3. Fingerprintig
 
 ### sicher surfen
 - Um anonym surfen zu können, reicht es leider nicht mehr, nur die IP Adresse z.B. über einen VPN zu verschleiern.
