@@ -40,7 +40,7 @@ Um den Test auszuführen, muss lediglich die offizielle Webseite besucht werden 
 Der Test kann einige Minuten in Anspruch nehmen.
 
 
-> [Browser Audit](https://browseraudit.com/)
+> [BrowserAudit](https://browseraudit.com/)
 
 
 
