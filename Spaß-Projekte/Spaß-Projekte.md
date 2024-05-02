@@ -72,10 +72,10 @@ dir/s
 
 __Hinweis__:
   - Das offline Spiel läuft lokal auf dem Computer !
-  - Daher ist die Ausführung __nicht__ rechtswiedrig.
+  - Daher ist die Ausführung auf eigenen Geräten __nicht__ rechtswiedrig.
 
 
-- In Chrome, Chromium oder einem Browser, der auf Chromium basiert, (wie z.B. Brave) das __offline Game__ "Dino" hacken.
+### In Chrome, Chromium oder einem Browser, der auf Chromium basiert, (wie z.B. Brave) das __offline Game__ "Dino" hacken.
 
 
 1. In die Adressleiste des Browsers `chrome:dino` eingeben, um das offline Spiel zu starten.
@@ -87,5 +87,5 @@ __Hinweis__:
 6. Enter.
 
 
-- Wenn automatisch in einer neuen Zeile "ƒ (){}" erscheint, dann wurde der Befehl erfolgreich ausgeführt und 
+- Wenn automatisch in einer neuen Zeile `ƒ (){}` erscheint, dann wurde der Befehl erfolgreich ausgeführt und 
 das Spiel läuft ohne, dass der Dino bei einem Hindernis stirbt.
