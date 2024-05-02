@@ -1,6 +1,5 @@
-# cmatrix
+# cmatrix (Linux)
 
-### Linux:
 ```
 $ sudo apt install cmatrix
 ```
