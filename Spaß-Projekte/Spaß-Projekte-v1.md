@@ -1,4 +1,4 @@
-# cmatrix (Linux)
+# CMatrix (Linux)
 
 ```
 $ sudo apt install cmatrix
@@ -46,7 +46,7 @@ $ color a & curl parrot.live
 ---------------------------------------------------------------------------
 
 
-# looks like hacker (Windows)
+# looks like a Hacker (Windows)
 
 
 ### WICHTIG: Funktioniert nur in CMD unter Windows !
@@ -54,10 +54,10 @@ $ color a & curl parrot.live
 In CMD eigeben:
 
 ```
-color 0a
+$ color 0a
 ```
 ```
-dir/s
+$ dir/s
 ```
 
 - Der Befehl "$ color 0a" ändert die Schriftfarbe in "grün".
@@ -67,7 +67,7 @@ dir/s
 ---------------------------------------------------------------------------
 
 
-# dino chrome hack
+# Dino Chrome Hack
 
 __Hinweis__:
   - Das offline Spiel läuft lokal auf dem Computer !
