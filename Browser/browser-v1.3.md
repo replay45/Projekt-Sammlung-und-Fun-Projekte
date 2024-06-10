@@ -4,9 +4,8 @@
 # 1. anonym & sicher im Internet surfen
 
 - Um anonym surfen zu können, reicht es leider nicht mehr, nur die IP Adresse z.B. über einen VPN zu verschleiern.
-Auch wenn die meisten Browser heute viele Cookies blockieren können, können häufig Webseiten über das sogenannte `Fingerprinting` - mehr dazu weiter unten.
-Nutzer bzw. Browser wiedererkennen, egal welche IP Adresse diese haben.
-
+Auch wenn die meisten Browser heute viele Cookies blockieren können, können häufig Webseiten über das sogenannte `Fingerprinting` Nutzer bzw. Browser wiedererkennen, egal welche IP Adresse diese haben.
+- mehr dazu weiter unten.
 
 - Auch Browser-Erweiterungen wie Werbe-Adblocker können zum Schutz beitragen, sind jedoch genauso wie ein VPN niemals eine Garantie für Anonymität.
 Es empfielt sich, **nur** die **nötigsten** Erweiterungen installiert zu haben.
