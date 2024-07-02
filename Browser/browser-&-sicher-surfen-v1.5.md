@@ -1,30 +1,50 @@
 # Browser & sicher surfen
 
 
-# 1. anonym & sicher im Internet surfen
+## Inhaltsverzeichnis
 
-- Um anonym surfen zu können, reicht es leider nicht mehr, nur die IP Adresse z.B. über einen VPN zu verschleiern.
+### 1. anonym & sicher im Internet surfen
+- Fazit
+- Was kann man also tun, um die Sicherheit beim browsen zu erhöhen ?
+- Fingerprinting testen & verhindern
+
+### 2. Mehr Sicherheit im Heimnetzwerk
+- [PI-Hole](https://pi-hole.net/)
+
+### 3. BrowserAudit (Browser-Sicherheitstest)
+### 4. [Brave-Browser](https://brave.com/de/) Dark-Mode für jede Webseite
+### 5. [Brave-Browser](https://brave.com/de/) direkt im privaten Modus öffnen
+
+
+--------------------------------------------------------------
+
+
+# 1.1. anonym & sicher im Internet surfen
+
+Um anonym surfen zu können, reicht es leider nicht mehr, nur die IP Adresse z.B. über einen VPN zu verschleiern.
 Auch wenn die meisten Browser heute viele Cookies blockieren können, können häufig Webseiten über das sogenannte `Fingerprinting` Nutzer bzw. Browser wiedererkennen, egal welche IP Adresse diese haben.
-- mehr dazu weiter unten.
+mehr dazu weiter unten.
 
-- Auch Browser-Erweiterungen wie Werbe-Adblocker können zum Schutz beitragen, sind jedoch genauso wie ein VPN niemals eine Garantie für Anonymität.
+
+Auch Browser-Erweiterungen wie Werbe-Adblocker können zum Schutz beitragen, sind jedoch genauso wie ein VPN niemals eine Garantie für Anonymität.
 Es empfielt sich, **nur** die **nötigsten** Erweiterungen installiert zu haben.
 Ein beliebter Open-Source Adblocker ist z.B. der [uBlock Origin](https://ublockorigin.com/de).
 
 
-- Allerdings kann man z.B. die `Sicherheitseinstellungen` im Browser auf `sicher` oder `am sichersten` stellen und AdBlocker, wie der  [uBlock Origin](https://ublockorigin.com/de), können zum Schutz beitragen, indem sie Tracker blockieren.
-
-Auch ein VPN kann in individuellen Fällen zum Schutz beitragen. Wichtig ist jedoch, dass man sich jedoch niemals auf einen VPN-Anbieter verlässt, denn in einigen Fällen loggen diese die Aktivitäten mit. Insbesondere bei kostenlosen Konten besteht die Gefahr, dass Einnahmen durch das Sammeln und Verarbeiten von Daten erziehlt werden.
+Allerdings kann man z.B. die `Sicherheitseinstellungen` im Browser auf `sicher` oder `am sichersten` stellen und AdBlocker, wie der  [uBlock Origin](https://ublockorigin.com/de), können zum Schutz beitragen, indem sie Tracker blockieren.
 
 
+Auch ein VPN kann in individuellen Fällen zum Schutz beitragen. Wichtig ist jedoch, dass man sich niemals auf einen VPN-Anbieter verlässt, denn in einigen Fällen loggen diese die Aktivitäten mit. Insbesondere bei kostenlosen Konten besteht die Gefahr, dass Einnahmen durch das Sammeln und Verarbeiten von Daten erziehlt werden.
 
-### Fazit
+
+
+## 1.2 Fazit
 Wichtig zu merken ist, dass `anonym zu surfen ein Konzept ist` und nicht durch ein Programm gewährleitet werden kann.
 Es ist daher immer notwendig, sich ausführlich zu informieren.
 
 
 
-### Was kann man also tun, um die Sicherheit bein browsen zu erhöhen ?
+## 1.3 Was kann man also tun, um die Sicherheit beim browsen zu erhöhen ?
 
 Zunächst empfiehlt es sich, häufiger den privaten Modus des Browsers zu nutzen und zu überlegen, ob man nicht lieber auf einen empfehlenswerteren Browser, wie den [Firefox](https://www.mozilla.org/de/firefox/new/) oder [Brave-Browser](https://brave.com/de/) für den Alltag umsteigen möchte.
 Außerdem empfiehlt sich der AdBlocker [uBlock Origin](https://ublockorigin.com/de), um Tracking und Werbung zu meiden.
@@ -42,7 +62,7 @@ Wer trotzdem ein paar Ausflüge auf ".onion" - Dark-Web-Seiten machen möchte, s
 Mehr zu Sicherheit auf dem Betriebssystem und Sicherheit & Firewall auf Linux ist in dem Repository [Linux, Ethical-Hacking & RaspberryPI](https://github.com/replay45/Linux_Ethical-Hacking_RaspberryPI/tree/main/linux) zu finden.
 
 
-## Fingerprinting testen & verhindern
+## 1.4 Fingerprinting testen & verhindern
 
 
 - Ein Browser, der Fingerprinting verhindert bzw. blockiert, ist z.B. der [Brave-Browser](https://brave.com/de/).
@@ -54,13 +74,16 @@ Mehr zu Sicherheit auf dem Betriebssystem und Sicherheit & Firewall auf Linux is
 
 
 - Ein guter Artikel zur Thematik `sicher surfen` von `wiki.ubuntuusers.de` ist hier zu finden.
-- Dieser Artikel war u.a. eine Inspiration für diese kurze Zusammenfassung (Punkt 3): [wiki.ubuntuusers.de](https://wiki.ubuntuusers.de/Sicherheit/Anonym_Surfen/)
+- Dieser Artikel war u.a. eine Inspiration für diese kurze Zusammenfassung (Punkt 1): [wiki.ubuntuusers.de](https://wiki.ubuntuusers.de/Sicherheit/Anonym_Surfen/)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # 2. Mehr Sicherheit im Heimnetzwerk
+
+
+- [PI-Hole](https://pi-hole.net/)
 
 Wer mehr Sicherheit in seinem Heimnetzwerk haben möchte, kann [PI-Hole](https://pi-hole.net/), als [DNS-Server](https://de.wikipedia.org/wiki/Domain_Name_System) für alle Geräte im Netzerk nutzen.
 Dabei werden alle DNS-Anfragen an den PI-Hole gesendet und dieser kann `Tracking oder auch Werbung filtern`.
@@ -136,3 +159,4 @@ Um den Dark-Mode zu deaktivieren, einfach wieder `disable` auswählen.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
