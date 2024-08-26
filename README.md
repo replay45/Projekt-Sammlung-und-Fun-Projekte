@@ -1,4 +1,4 @@
-# Projekt-Sammlung
+# Projekt-Sammlung & Spaß Projekte
 
 - In diesem Repository sind verschiedene Projekte und hilfreiche Anleitungen, sowie einige "Spaß-Projekte" zu finden.
 - Beachte jedoch bitte bei den Spaß-Projekten die Hinweise zu den Betriebssystemen.
