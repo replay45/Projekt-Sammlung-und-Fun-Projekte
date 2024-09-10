@@ -3,10 +3,8 @@
 
 ## 1. [mail.de](https://mail.de/de/) [settings](https://mail.de/de/hilfe/nachrichten/externe_e-mail_clients/pop3-imap_einstellungen)
 
-
 - Login Benutzername: [deine-email] @mail.de
 - Login Passwort: dein gewähltes Passwort
-
 
 ### IMAP
 - Server: imap.mail.de
@@ -32,11 +30,20 @@
 
 ## 2. [eclipso.de](https://www.eclipso.de/) [settings](https://www.eclipso.de/faq/e-mail/einrichtung-pop3-mit-mozilla-thunderbird)
 
+- Login Benutzername: [deine-email] @eclipso.de
+- Login Passwort: dein gewähltes Passwort
 
 ### POP3
-- Postein-/ & Postausgangsserver: mail.eclipso.de
-- Posteingang POP3 (Port): 995 - Verschlüsselung: SSL/TLS
-- Postausgang SMTP (Port): 465 - Verschlüsselung: SSL/TLS
+- Server: mail.eclipso.de
+- Posteingang: POP3 
+- Port: 995
+- Verschlüsselung: SSL/TLS
+
+
+### SMTP
+- Server: mail.eclipso.de
+- Port: 465 
+- Verschlüsselung: SSL/TLS
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -44,6 +51,8 @@
 
 ## 3. [Web.de](web.de) [settings](https://hilfe.web.de/pop-imap/imap/imap-serverdaten.html)
 
+- Login Benutzername: [deine-email] @web.de
+- Login Passwort: dein gewähltes Passwort
 
 ### IMAP
 - Server: imap.web.de
