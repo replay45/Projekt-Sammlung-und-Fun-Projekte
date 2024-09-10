@@ -30,7 +30,7 @@
 -----------------------------------------------------------------------------------------------------------------
 
 
-## 2. [eclipso.de](https://www.eclipso.de/) [settings](https://www.eclipso.de/faq/e-mail/einrichtung-pop3-mit-mozilla-thunderbird) pop3
+## 2. [eclipso.de](https://www.eclipso.de/) [settings](https://www.eclipso.de/faq/e-mail/einrichtung-pop3-mit-mozilla-thunderbird)
 
 
 ### POP3
