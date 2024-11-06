@@ -1,19 +1,42 @@
-# 1. CMatrix (Linux / Termux)
+# Spaß-Projekte
 
-- Installation
-`Linux mit APT:`
+
+## Inhaltsverzeichnis
+
+### 1. CMatrix - Linux / MacOS / Termux
+### 2. cacafire - Linux / MacOS / Termux
+### 3. Fun Befehle
+### 4. looks like a Hacker - Windows
+### 5. Dino Chrome Hack
+
+
+--------------------------------------------------------------
+
+
+
+# 1. CMatrix - Linux / MacOS / Termux
+
+### a) Installation
+
+- Installation auf Linux mit apt:
 ```
 $ sudo apt install cmatrix
 ```
 
-
-`Termux auf Android mit APT:`
+- Termux auf Android mit pkg:
 ```
-$ apt install cmatrix
+$ pkg install cmatrix
+```
+
+- Installation auf MacOS mit [HomeBrew](https://brew.sh/) - [hier mehr zu HomeBrew](https://github.com/replay45/Windows-Apple-und-Android/tree/main/Apple)
+```
+$ brew install cmatrix
 ```
 
 
-- CMatrix nutzen:
+### b) CMatrix benutzen
+
+- CMatrix starten:
 ```
 $ cmatrix
 ```
@@ -40,10 +63,30 @@ $ cmatrix
 ---------------------------------------------------------------------------
 
 
-# 2. cacafire (Linux / Termux)
+# 2. cacafire - Linux / MacOS / Termux
+
+### a) Installation
+
+- Installation auf Linux mit apt:
 ```
-$ sudo apt install cacafire
+$ sudo apt install caca-utils
 ```
+
+- Termux auf Android mit pkg:
+```
+$ pkg install libcaca
+```
+
+- Installation auf MacOS mit [HomeBrew](https://brew.sh/) - [hier mehr zu HomeBrew](https://github.com/replay45/Windows-Apple-und-Android/tree/main/Apple)
+```
+$ brew install libcaca
+```
+
+
+
+### b) cacafire benutzen
+
+- cacafire starten:
 ```
 $ cacafire
 ```
@@ -52,11 +95,9 @@ $ cacafire
 ---------------------------------------------------------------------------
 
 
-# 2. Fun Befehle
+# 3. Fun Befehle
 
-### Die Befehle funktionieren in den gängigen Terminals, wie z.B. auf Linux, Termux oder in CMD auf Windows.
-
-- Im Terminal eingeben:
+### Die Befehle funktionieren in den gängigen Terminals, wie z.B. auf Linux, MacOS, Termux oder Windows.
 
 ```
 $ color 2 & curl ascii.live/forrest
@@ -69,10 +110,10 @@ $ color a & curl parrot.live
 ---------------------------------------------------------------------------
 
 
-# 3. looks like a Hacker (Windows)
+# 4. looks like a Hacker (Windows)
 
 
-### WICHTIG: Funktioniert nur in CMD unter Windows !
+### WICHTIG: Funktioniert nur unter Windows !
 
 In CMD eigeben:
 
@@ -90,27 +131,27 @@ $ dir/s
 ---------------------------------------------------------------------------
 
 
-# 4. Dino Chrome Hack
+# 5. Dino Chrome Hack
 
 __Hinweis__:
   - Das offline Spiel läuft lokal auf dem Computer !
   - Daher ist die Ausführung auf eigenen Geräten __nicht__ rechtswiedrig.
 
 
-### In Chrome, Chromium oder einem Browser, der auf Chromium basiert, (wie z.B. Brave) das __offline Game__ "Dino" hacken.
+### In Chrome, Chromium oder einem Browser, der auf Chromium basiert, (wie z.B. Brave, Opera...) das __offline Game__ "Dino" hacken.
 
 
 1. In die Adressleiste des Browsers `chrome:dino` eingeben, um das offline Spiel zu starten.
 2. Rechtsklick,
 3. "Untersuchen" auswählen,
 4. im Menü auf "Console" klicken,
-5. Befehl eingeben: 
-```$ Runner.prototype.gameOver = function (){}```
+5. Befehl eingeben:
+```
+$ Runner.prototype.gameOver = function (){}
+```
 6. Enter.
 
 
-- Wenn automatisch in einer neuen Zeile `ƒ (){}` erscheint, dann wurde der Befehl erfolgreich ausgeführt und 
-das Spiel läuft ohne, dass der Dino bei einem Hindernis stirbt.
-
+- Wenn automatisch in einer neuen Zeile `ƒ (){}` erscheint, dann wurde der Befehl erfolgreich ausgeführt und das Spiel läuft ohne, dass der Dino bei einem Hindernis stirbt.
 
 ---------------------------------------------------------------------------
