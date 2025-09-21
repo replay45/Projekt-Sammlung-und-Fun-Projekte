@@ -2,16 +2,16 @@
 
 
 ## Inhaltsverzeichnis
-
-### 1. CMatrix - Linux / MacOS / Termux
-### 2. cacafire - Linux / MacOS / Termux
-### 3. Fun Befehle
-### 4. looks like a Hacker - Windows
-### 5. Dino Chrome Hack
+1. CMatrix - Linux / MacOS / Termux
+2. cacafire - Linux / MacOS / Termux
+3. Fun Befehle
+4. looks like a Hacker - Windows
+5. Dino Chrome Hack
+6. Hollywood
+7. Weltkarte im Terminal
 
 
 --------------------------------------------------------------
-
 
 
 # 1. CMatrix - Linux / MacOS / Termux
@@ -153,5 +153,42 @@ $ Runner.prototype.gameOver = function (){}
 
 
 - Wenn automatisch in einer neuen Zeile `ƒ (){}` erscheint, dann wurde der Befehl erfolgreich ausgeführt und das Spiel läuft ohne, dass der Dino bei einem Hindernis stirbt.
+
+
+---------------------------------------------------------------------------
+
+
+# 6. Hollywood
+- Hollywood ist ein `Demonstartionsprogramm` für das Linux Terminal.
+- Hollywood führt `"zur Show" Befehle aus`, und `simmuliert` in einem `drammatischen Layout` ein `"hacker Terminal"` wie man es aus `Filmen` kennt.
+- Befehle die von Hollywood verwendet werden, sind z.B. cmatrix, top, htop, atop, dmesg, journalctl, watch, usw.
+- Das Ausführen der ganzen Befehle benötigt etwas mehr Ressourcen.
+
+```
+$ sudo apt install hollywood
+```
+```
+$ hollywood
+```
+
+- Zum Beenden von Hollywood:
+	- Option 1: `F6` drücken
+	- Option 2: `STRG+C` und danach `$ exit` eingeben
+
+
+---------------------------------------------------------------------------
+
+
+# 7. Weltkarte im Terminal
+- Über Telnet kann man sich eine Weltkarte im Terminal anzeigen lassen.
+
+### ASCII-Weltkarte mit Telnet
+```
+$ telnet mapscii.me
+```
+- Hier kann nun z.B. mit den Pfeiltasten oder mit einer Maus die Karte bewegt und hineingezoomt werden.
+- zum Verlassen `q` drücken
+
+
 
 ---------------------------------------------------------------------------
