@@ -1,13 +1,15 @@
 # Reparaturen & Reinigung von elektrischen Bauteilen & Geräten
 
+
 ### Disclaimer
-Die Nutzung folgender Informationen und Anleitungen ist auf eigene Gefahr !
-Es erfolgt KEINE Garantie für den Erfolg einer Reparatur/ Reinigung !
+Dieser Beitrag dient nur der allgemeinen Information und stellt __KEINE__ fachliche oder rechtliche Beratung dar!
+Die Anwendung folgender Informationen und Anleitungen ist auf eigene Gefahr !
+Es erfolgt __KEINE__ Garantie für den Erfolg einer Reparatur/ Reinigung !
 Die Informationen und Anleitungen sind verantwortungsbewusst und nur für legale Zwecke zu nutzen.
 Der Autor übernimmt keine Garantie für die Vollständigkeit und Korrektheit der Inhalte und haftet nicht für entstandene Schäden.
 Durch unautorisierte Reparaturen kann die Garantie beeinträchtigt werden !
 Auf Eigenschutz achten und Schutzausrüstung tragen, wenn erforderlich !
-Das Öffnen von Netzteilen sollte immer nur von entsprechendem Fachpersonal durchgeführt werden, da hier Lebensgefahr bestehen kann !
+Das Öffnen von Netzteilen und Akkus sollte immer __nur__ von entsprechendem Fachpersonal durchgeführt werden, da hier __Lebensgefahr__ bestehen kann !
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -26,7 +28,7 @@ Das Öffnen von Netzteilen sollte immer nur von entsprechendem Fachpersonal durc
 ## empfohlenes Werkzeug
 - nützliches/ empfohlenes Werkzeug
 	- eine geeignete und saubere Unterlage
-	- verschiedene Pingsetten
+	- verschiedene Pinzetten
 	- plastikhebel
 	- Einmaltücher
 	- Wattestäbchen
@@ -39,7 +41,7 @@ Das Öffnen von Netzteilen sollte immer nur von entsprechendem Fachpersonal durc
 
 ### Eigenschutz bei Verwendung von Lösungs- und Reinigungsmitteln
 - Bei der Verwendung von Lösungs- und Reinigungsmitteln auf die eigene Sicherheit und Lagerung achten !
-- Schutzkleidung wie Schutzbrille und Handschuhe tragen.
+- Schutzkleidung wie Schutzbrille, Handschuhe und falls erforderlich Atemschutz tragen.
 - Auf ausreichende Belüftung achten !
 
 
@@ -107,9 +109,9 @@ Eine Mischung nutzt die Vorteile beider Lösungsmittel, ist geeignet, wenn eine 
 
 
 ### Aufbewahrung der Lösungs- und Reinigungsmittel
-- Das ist keine Rechtsberatung !
-- Bitte die Lösungs- und Reinigungsmittel gesetzeskonform aufbewahren (lokale Gesetze beachten).
-
+- rechtliche Hinweise:
+	- __Das ist keine Rechtsberatung !__
+	- Bitte die Lösungs- und Reinigungsmittel __gesetzeskonform aufbewahren__ (lokale Gesetze beachten).
 
 - Nachfolgend ein paar Hinweise:
 	- Gefahrenklassifizierung und Lagerklasse beachten (Isopropanol und Aceton sind entzündbar) !
@@ -117,7 +119,7 @@ Eine Mischung nutzt die Vorteile beider Lösungsmittel, ist geeignet, wenn eine 
 	- Kennzeichnung und Dokumentation (Auf Kennzeichnung auf den Behälter achten) !
 	- Belüftungsmöglichkeiten beachten !
 	- Außerhalb der Reichweite von Kindern aufbewahren !
-	- Bei Raumtemperatur und an einem dunklen und trockenen Ort lagern !
+	- Bei Raumtemperatur, an einem dunklen und trockenen Ort lagern !
 	
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -128,7 +130,7 @@ Eine Mischung nutzt die Vorteile beider Lösungsmittel, ist geeignet, wenn eine 
 ## Allgemeine Tipps zu Reparaturen von elektrischen Bauteilen & Geräten
 
 - Was für elektrische Bauteile & Geräte sind gemeint ?
-	- handelsübliche Ware wie
+	- handelsübliche Geräte, wie
 		- Handys & Tablets
 		- Kopfhörer
 		- Laptops
@@ -137,14 +139,14 @@ Eine Mischung nutzt die Vorteile beider Lösungsmittel, ist geeignet, wenn eine 
 
 - empfohlenes Werkzeug
 	- eine geeignete und saubere Unterlage
-	- verschiedene Pingsetten
-	- plastikhebel
+	- verschiedene Pinzetten
+	- Plastikhebel
 	- Plektrum
-	- plastikkarte
+	- Plastikkarte
 	- Saugnapf
 	- magnetische Matte für Schrauben
 	- Schraubendreher Set
-	- ggf. Heißluftfön oder Fön der entsprechende Hitze erzeugen kann
+	- ggf. Heißluftfön oder Föhn der entsprechende Hitze erzeugen kann
 
 
 ## Tipps für die perfekte Reparatur
@@ -154,20 +156,20 @@ Eine Mischung nutzt die Vorteile beider Lösungsmittel, ist geeignet, wenn eine 
 	- bei mobilen Geräten besteht ggf. weiterhin eine Stromversorgung durch den Akku
 	- Sobald dies möglich ist, den Akku, bzw. das Akkukabel trennen
 	- bei Geräten wie einem PC/ mini PC können durch mehrfaches Betätigen des Powerbuttons Kondensatoren, die noch Spannung enthalten, entladen werden.
-	- Das Öffnen von Netzteilen sollte immer nur von entsprechendem Fachpersonal durchgeführt werden, da hier Lebensgefahr bestehen kann !
+	- Das Öffnen von Netzteilen und Akkus sollte immer __nur__ von entsprechendem Fachpersonal durchgeführt werden, da hier __Lebensgefahr__ bestehen kann !
 
 - Vorbereitung
-	- Für das Durchführen von Reparaturen gibt es häufig viele Videos auf YouTube. Diese können dabei helfen, zu Ermitteln welches Werkzeug benötigt wird und wie das entsprechende Gerät für eine Reparatur geöffnet werden kann. 
+	- Für das Durchführen von Reparaturen gibt es häufig viele Videos auf [YouTube](https://www.youtube.com/). Diese können dabei helfen, zu Ermitteln welches Werkzeug benötigt wird und wie das entsprechende Gerät für eine Reparatur geöffnet werden kann. 
 	- Außerdem sollten alle benötigten Ersatzteile besorgt werden.
 	- Für ausreichend Beleuchtung sorgen.
-	- Ausreichend Zeit einplanen.
-	- Es ist außerdem immer ratsam, ein aktuelles Backup aller Daten zu erstellen !
+	- Ausreichend Zeit für die Reparatur einplanen.
+	- Es ist außerdem immer ratsam, ein aktuelles Backup aller Daten zu erstellen, bevor eine Reparatur durchgeführt wird !
 
 - Durchführung
-	- Das Gerät ggf. herunterfahren und Stromquelle trennen !
+	- Das Gerät ggf. herunterfahren und Stromquelle(n) trennen !
 	- Reparatur behutsam durchführen.
 	- Gewalt hilf meistens nicht.
-	- Wenn sich Abdeckungen etc. nicht lösen lassen, gibt es meistens noch versteckte Schrauben.
+	- Wenn sich Abdeckungen etc. nicht lösen lassen, gibt es meistens noch `versteckte Schrauben` unter Garantiesiegeln, Gummifüßen etc.
 	- Auf unterschiedliche Schrauben achten und diese auf einer geeigneten Ablage (z.B. Magnetmatte) sortieren.
 	- Reparatur durchführen.
 
