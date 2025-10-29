@@ -1,0 +1,72 @@
+# Dark Mode in Chromium basierten Browsern
+
+
+`Anleitung erstellt am 10.2.2025, zuletzt bearbeitet am 29.10.2025`
+
+
+## Inhaltsverzeichnis
+1. Allgemeine Anleitung - Dark Mode in Chromium basierten Browsern
+2. [Brave-Browser](https://brave.com/de/) - Dark Mode in Chromium basierten Browsern
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+# 2. Allgemeine Anleitung - Dark Mode in Chromium basierten Browsern
+
+### Hinweis:
+- Da der Dark-Mode zum aktuellen Zeitpunkt (Erstellung dieser Anleitung) eine experimentelle Funktion ist, kann es zu Fehlern kommen !
+- Anleitung gestestet mit dem [Brave-Browser](https://brave.com/de/), dem [Vivaldi](https://vivaldi.com/de/) und dem [Chromium-Browser](https://de.wikipedia.org/wiki/Chromium_(Browser)).
+- Grundsätzlich funktioniert das für die Desktop-Versionen, als auch für die mobilen Browser-Apps auf dem Smartphone.
+
+### Tracking/Fingerprinting
+- Wenn die experimentelle Funktion aktiv ist, kann das für die Nutzer-Identifizierung, z.B. durch das Fingerpriting genutzt werden.
+- Das bedeitet Webseiten & Tracker können einsehen, dass diese Funktion aktiv ist und den Nutzer daurch identifizieren.
+- Lediglich der [Brave-Browser](https://brave.com/de/) bietet eine Funktion, um Tracking durch die Dark-Mode-Einstellungen zu verhindern.
+
+### 1. chrome://flags/ - Chromium basierte Browser
+- Einen Chromium basierten Browser öffnen und in die URL-Leiste folgende Seite öffnen:
+```
+chrome://flags/
+```
+
+### Dark-Mode aktivieren
+- Nun in der Suchleiste auf der `chrome://flags/`-Seite nach `dark mode` suchen.
+- Bei `Auto Dark Mode for Web Contents` - `enable` auswählen.
+
+### Dark-Mode wieder deaktivieren
+- Um den Dark-Mode zu deaktivieren, einfach wieder auf der `chrome://flags/`-Seite unter `Auto Dark Mode for Web Contents` - `disable` auswählen.
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+# 2. [Brave-Browser](https://brave.com/de/) - Dark Mode in Chromium basierten Browsern
+
+### Hinweis:
+- Da der Dark-Mode zum aktuellen Zeitpunkt (Erstellung dieser Anleitung) eine experimentelle Funktion ist, kann es zu Fehlern kommen !
+- Anleitung gestestet mit dem [Brave-Browser](https://brave.com/de/), dem Vivaldi und dem Chromium-Browser.
+- Grundsätzlich funktioniert das für die Desktop-Versionen, als auch für die mobile Browse-App auf dem Smartphone.
+
+### Tracking/Fingerprinting
+- Wenn die experimentelle Funktion aktiv ist, kann das für die Nutzer-Identifizierung, z.B. durch das Fingerpriting genutzt werden.
+- Das bedeitet Webseiten & Tracker können einsehen, dass diese Funktion aktiv ist und den Nutzer daurch identifizieren.
+- Lediglich der [Brave-Browser](https://brave.com/de/) bietet eine Funktion, um Tracking durch die Dark-Mode-Einstellungen zu verhindern.
+
+### 1. brave://flags/ - Brave-Browser
+- Den Brave-Browser öffnen und in die URL-Leiste folgende Seite öffnen:
+```
+brave://flags/
+```
+
+### Dark-Mode aktivieren
+- Nun in der Suchleiste auf der `brave://flags/`-Seite nach `dark mode` suchen.
+- Bei `Auto Dark Mode for Web Contents` - `enable` auswählen.
+
+### Dark-Mode wieder deaktivieren
+- Um den Dark-Mode zu deaktivieren, einfach wieder auf der `brave://flags/`-Seite unter `Auto Dark Mode for Web Contents` - `disable` auswählen.
+
+### dark mode blocking fingerprinting protection - 
+- Die Option `Enable dark mode blocking fingerprinting protection` sollte ebenfalls auf `enable` gesetzt sein, damit der Browser nicht meldet, dass der Dark-Mode aktiv ist und der Fingerprintingschutzes bezüglich des Dark-Modes aktiv ist.
+
+----------------------------------------------------------------------------------------------------------------
