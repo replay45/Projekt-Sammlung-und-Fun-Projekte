@@ -1,4 +1,4 @@
-# alle Suchmaschinen aus einem Browser entfernen - und "leere-Suchmaschine" Browser hinzufügen
+# alle Suchmaschinen aus einem Browser entfernen - und "leere-Suchmaschine" im Browser hinzufügen
 
 `Anleitung erstellt am 7.12.2025`
 
