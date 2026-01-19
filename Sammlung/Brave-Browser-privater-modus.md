@@ -10,7 +10,7 @@
  --incognito
 ```
 - Auf `Übernehmen` und `OK` klicken.
-- Rechtsklick auf das modifizierte Desktop-Icon und `anheften an Taskleite` auswählen.
+- Rechtsklick auf das modifizierte Desktop-Icon und `Anheften an Taskleiste` auswählen.
 
 
 ### Linux
