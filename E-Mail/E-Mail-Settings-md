@@ -1,3 +1,5 @@
+`Beitrag zuletzt bearbeitet am 19.1.2026`
+
 # Einstellungen für E-Mail-Clients, wie z.B. [Thunderbird](https://www.thunderbird.net/de/)
 
 
@@ -49,7 +51,30 @@
 -----------------------------------------------------------------------------------------------------------------
 
 
-## 3. [Web.de](web.de) [settings](https://hilfe.web.de/pop-imap/imap/imap-serverdaten.html)
+## 3. [Proton Mail](https://proton.me/mail) [settings](https://proton.me/support/smtp-submission#smtpvsimap)
+
+- Login Benutzername: [deine-email] @proton.me
+- Login Passwort: dein gewähltes Passwort
+
+### Proton Mail App
+- Am einfachsten ist es die [Proton Mail App](https://proton.me/mail/download) für Desktop (Linux/MacOS/Windows) oder Mobile (Android/iOS) zu verwenden.
+- Alternativ kann man natürlich immer die [Web-App im Browser](https://proton.me/mail/download) verwenden, unabhängig vom Betriebssystem. 
+
+
+### IMAP
+- Für IMAP in einem Mail-Client wie [Thunderbird](https://www.thunderbird.net/de/) wird die [Proton Mail Bridge App](https://proton.me/support/protonmail-bridge-install) benötigt.
+
+
+### SMTP
+- Server: smtp.protonmail.ch
+- Port: 587
+- Verschlüsselung: STARTTLS / TLS / Verschlüsselung
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+## 4. [Web.de](web.de) [settings](https://hilfe.web.de/pop-imap/imap/imap-serverdaten.html)
 
 - Login Benutzername: [deine-email] @web.de
 - Login Passwort: dein gewähltes Passwort
