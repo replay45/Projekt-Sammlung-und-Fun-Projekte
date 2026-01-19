@@ -20,7 +20,7 @@ Die Anwendung erfolgt auf eigenes Risiko.
 - `CE`
 	- Die CE-Kennzeichnung ist eine Zertifizierung, die verdeutlicht, dass das Produkt die Sicherheitsstandards der EU einhält.
 	- Achtung: Das `CE-Kennzeichen selbst` zertifiziert `KEINEN UV-Schutz`.
-	- Außerdem sollte man das CE-Kennzeichen der EU nicht mit dem CE-Kennzeichen, welches für "ChinaExport" steht, verwechselt werden. Diese sehen sich zwar ähnlich, jedoch bedeuten sie etwas völlig anderes.
+	- Außerdem sollte man das CE-Kennzeichen der EU nicht mit dem CE-Kennzeichen, welches für "ChinaExport" steht, verwechselen. Diese sehen sich zwar ähnlich, jedoch bedeuten sie etwas völlig anderes.
 	- [CE-Kennzeichnung - Wikipedia](https://de.wikipedia.org/wiki/CE-Kennzeichnung)
 	- [CE-Kennzeichen der EU vs das China-Export-Symbol unterscheiden](https://www.china-gadgets.de/ratgeber/kennzeichnungen-ce-gs-fcc-etc/)
 
