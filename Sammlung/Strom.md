@@ -145,7 +145,7 @@ Eigenschaften:
 
 ## Überspannungs-/Blitzschutz
 - Manche Mehrfachsteckdosen bieten einen Überspannungs- und/oder Blitzschutz.
-- Dieser ersetzt jedoch keinen hochwertigen und funktionierenden [Leitungsschutzschalter](https://de.wikipedia.org/wiki/Leitungsschutzschalter) im "Sicherungskasten".
+- Dieser ersetzt jedoch keinen hochwertigen und fachgerecht installierten Blitzschutz im "Sicherungskasten".
 - Allerdings kann die Verwendung von z.B. Mehrfachsteckdosen mit Überspannungs-/Blitzschutz in manchen Szenarien durchaus sinnvoll sein. Man spricht dann von einem `Feinschutz`, um empfindliche Geräte zu schützen.
 - Der `Gesamtableitstrom` gibt an, wie viel Strom (in Ampere) der Überspannungsschutz bei einer Überspannung sicher ableiten kann.
 - Sollte der Überspannungsschutz ausgelöst werden, kann man die Mehrfachsteckdose in den meisten Fällen noch weiter betreiben, allerdings ist dann kein Schutz mehr gegeben. Das kann man in der Regel daran erkennen, ob die Status-LED vom Überspannungs-/Blitzschutz bei eingeschalteter Leiste entsprechend leuchtet oder nicht.
